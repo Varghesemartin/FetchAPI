@@ -1,0 +1,1 @@
+http://dog-api.kinduff.com/api/facts
